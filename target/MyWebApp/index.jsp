@@ -148,7 +148,7 @@ function success(){
 
     // Funny popup
     setTimeout(()=>{
-        alert("SUCCESS! You have officially pressed the most powerful button on earth!!");
+        alert("SUCCESS! You have officially pressed the most powerful button on Earth!!");
     },500);
 }
 
